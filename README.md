@@ -15,7 +15,7 @@ I was also asked to answer the following question:
 - What’s the best value for k?
 - Cluster the Cryptocurrencies with K-Means by Using the Original Data 
 - Initialize the K-means model with four clusters by using the best value for k. 
-- - Fit the K-means model by using the original data.
+- Fit the K-means model by using the original data.
 
 Predict the clusters for grouping the cryptocurrencies by using the original data. Review the resulting array of cluster values. 
 - Create a copy of the original data, and then add a new column of the predicted clusters. 
